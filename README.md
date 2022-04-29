@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ## Follow me
 
-[![Linkedin: Saifullah](https://img.shields.io/badge/-Saifullah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/saifullah-khan-b0637b169)](linkedin.com/in/saifullah-khan-b0637b169)
+[![Linkedin: Saifullah](https://img.shields.io/badge/-Saifullah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/saifullah-khan-b0637b169)](https://www.linkedin.com/in/saifullah-khan-b0637b169/)
 
 [![GitHub:Saifullah](https://img.shields.io/github/followers/saifullah767?style=social)](https://github.com/saifullah767)
 
