@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Tailwind](https://img.shields.io/badge/-tailwindcss-%2306B6D4)
+| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />            | `https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white`
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
 
 
